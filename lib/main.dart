@@ -1,5 +1,4 @@
 
-
 import 'package:flutter/material.dart';
 import 'package:islami_app_mon/HadethDetails/HadethDetailsScreen.dart';
 import 'package:islami_app_mon/home/HomeScreen.dart';
